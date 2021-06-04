@@ -54,7 +54,7 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Google-Earth-Engine-Papers/blob/master/ge(29).pdf" style="text-decoration:none;">The changing face of Earth's surface water </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Google-Earth-Engine-Papers/blob/master/ge(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Google-Earth-Engine-Papers/blob/master/ge(30).pdf" style="text-decoration:none;">Using Google Earth Engine to detect land cover change: Singapore as a use case</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Google-Earth-Engine-Papers/blob/master/ge(31).pdf" style="text-decoration:none;">The FirstWetland Inventory Map of Newfoundland at a Spatial Resolution of 10 m Using Sentinel-1 and Sentinel-2 Data on the Google Earth Engine Cloud Computing Platform</a></li> 
     </ul>
